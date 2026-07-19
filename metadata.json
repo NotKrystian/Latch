@@ -1,0 +1,6 @@
+{
+  "name": "Latch",
+  "description": "AI-powered focus lock and active study companion. Boost mastery by explaining topics in your own words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
